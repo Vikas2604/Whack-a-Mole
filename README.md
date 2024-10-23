@@ -12,7 +12,7 @@ This is a simple **Whack-a-Mole** game built using **HTML**, **CSS**, and **Java
   
 ## Demo
 
-Try out the game [Whach-a-Mole](https://whack-a-mole-vikas.netlify.app/).
+Try out the game [Whack-a-Mole](https://whack-a-mole-vikas.netlify.app/).
 
 ## Features
 
