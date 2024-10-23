@@ -9,10 +9,10 @@ This is a simple **Whack-a-Mole** game built using **HTML**, **CSS**, and **Java
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-- 
+  
 ## Demo
 
-Try out the game [here](https://whack-a-mole-vikas.netlify.app/).
+Try out the game [HERE](https://whack-a-mole-vikas.netlify.app/).
 
 ## Features
 
