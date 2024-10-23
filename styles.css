@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #d1fae5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .game-info p {
+    font-size: 1.5rem;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .hole {
+    width: 100px;
+    height: 100px;
+    background-color: #10b981;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .hole.active {
+    background-color: #854d0e;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2563eb;
+  }
+  
+  button:disabled {
+    background-color: #93c5fd;
+    cursor: not-allowed;
+  }
+  
