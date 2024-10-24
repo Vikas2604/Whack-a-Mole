@@ -40,7 +40,7 @@ Try out the game [Whack-a-Mole](https://whack-a-mole-vikas.netlify.app/).
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/whack-a-mole.git
+   git clone https://github.com/Vikas2604/whack-a-mole.git
 2. **Navigate to the project directory**:
 
    ```bash
@@ -58,3 +58,4 @@ whack-a-mole/
 ├── index.html        # Main HTML file
 ├── styles.css        # CSS styles
 └── script.js         # JavaScript game logic
+```
